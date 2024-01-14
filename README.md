@@ -15,7 +15,7 @@ LangTranslate is a simple and intuitive language translation web application tha
 
 - `Multi-Language Support:` Translate text between a variety of languages, making it a versatile tool for users around the world.
 
-- `Quick and Easy:` With WebLingo, translation is quick and easy. Simply enter the text, select the source and target languages, and get instant results.
+- `Quick and Easy:` With LangTranslate, translation is quick and easy. Simply enter the text, select the source and target languages, and get instant results.
 
 ## Getting Started
 
